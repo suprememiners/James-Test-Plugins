@@ -71,7 +71,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 	    	}
 	    	Bukkit.broadcastMessage(ChatColor.AQUA + "Time Left " + (TimeLeft));
 		    Bukkit.broadcastMessage(ChatColor.AQUA + "Stop, Lag view Over!");
-		    
 		   }
         }
 	return false;
