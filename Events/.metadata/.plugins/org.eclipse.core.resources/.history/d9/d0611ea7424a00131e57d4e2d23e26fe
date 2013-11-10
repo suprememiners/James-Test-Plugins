@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 e0a6fa24e7cb329ea4c9d0ba3dd75b95a13ae283 Simon Ruddock <simonruddock2@supremecomputer.home.gateway> 1384110958 +0000	commit (initial): Created Repo
+e0a6fa24e7cb329ea4c9d0ba3dd75b95a13ae283 f894e4027e66acfdd341cbf00641db3a26deab2c Simon Ruddock <simonruddock2@supremecomputer.home.gateway> 1384111536 +0000	commit: DDDDD lol
+f894e4027e66acfdd341cbf00641db3a26deab2c 8079a09833a4aa9cf09aa55f891e733ebc6897bb Simon Ruddock <simonruddock2@supremecomputer.home.gateway> 1384111718 +0000	revert: Revert "DDDDD lol"
+8079a09833a4aa9cf09aa55f891e733ebc6897bb 347d5b5437ff6f55ea4fd72ae1bed539012cb49a Simon Ruddock <simonruddock2@supremecomputer.home.gateway> 1384111735 +0000	pull --rebase --progress --prune --recurse-submodules=on-demand origin: checkout 347d5b5437ff6f55ea4fd72ae1bed539012cb49a
+347d5b5437ff6f55ea4fd72ae1bed539012cb49a 8079a09833a4aa9cf09aa55f891e733ebc6897bb Simon Ruddock <simonruddock2@supremecomputer.home.gateway> 1384111736 +0000	rebase: aborting
+8079a09833a4aa9cf09aa55f891e733ebc6897bb da691124beaa60f5d2a713d8a4940ed7de8e319f Simon Ruddock <simonruddock2@supremecomputer.home.gateway> 1384111752 +0000	commit (merge): Merge branch 'master' of https://github.com/suprememiners/SMPlugins
+da691124beaa60f5d2a713d8a4940ed7de8e319f 9df40a498f1eac6745a6083d0f4190ac2d466193 Simon Ruddock <simonruddock2@supremecomputer.home.gateway> 1384111809 +0000	commit (merge): This i dont know whats happening
+9df40a498f1eac6745a6083d0f4190ac2d466193 75bb6d316bfdac97b903b7b4136f48229cc30bd7 Simon Ruddock <simonruddock2@supremecomputer.home.gateway> 1384111843 +0000	commit: I fixed the file
+75bb6d316bfdac97b903b7b4136f48229cc30bd7 ea65a9d4062ae314accf5103b43346b8d2fa963d Simon Ruddock <simonruddock2@supremecomputer.home.gateway> 1384112018 +0000	commit: Eclipse Data

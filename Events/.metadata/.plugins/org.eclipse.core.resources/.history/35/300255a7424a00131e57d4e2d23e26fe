@@ -1,0 +1,8 @@
+name: SMplugins
+main: sm.simonr2.plugins.BaseClass
+version: 0.1.2
+description: >
+             Test Plugin
+commands:
+  GenEvent:
+    description: Base Command
